@@ -1,0 +1,6 @@
+D:\Customer\Customer.Entities\bin\Debug\Customer.Entities.dll
+D:\Customer\Customer.Entities\bin\Debug\Customer.Entities.pdb
+D:\Customer\Customer.Entities\obj\Debug\Customer.Entities.csprojAssemblyReference.cache
+D:\Customer\Customer.Entities\obj\Debug\Customer.Entities.csproj.CoreCompileInputs.cache
+D:\Customer\Customer.Entities\obj\Debug\Customer.Entities.dll
+D:\Customer\Customer.Entities\obj\Debug\Customer.Entities.pdb

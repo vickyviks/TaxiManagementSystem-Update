@@ -1,0 +1,11 @@
+D:\Customer\Customer.Exceptions\bin\Debug\Customer.Exceptions.dll
+D:\Customer\Customer.Exceptions\bin\Debug\Customer.Exceptions.pdb
+D:\Customer\Customer.Exceptions\obj\Debug\CustomerManagementSystem.ExceptionLayer.csprojAssemblyReference.cache
+D:\Customer\Customer.Exceptions\obj\Debug\CustomerManagementSystem.ExceptionLayer.csproj.CoreCompileInputs.cache
+D:\Customer\Customer.Exceptions\obj\Debug\Customer.Exceptions.dll
+D:\Customer\Customer.Exceptions\obj\Debug\Customer.Exceptions.pdb
+D:\Customer_Project\Customer\Customer.Exceptions\bin\Debug\Customer.Exceptions.dll
+D:\Customer_Project\Customer\Customer.Exceptions\bin\Debug\Customer.Exceptions.pdb
+D:\Customer_Project\Customer\Customer.Exceptions\obj\Debug\CustomerManagementSystem.ExceptionLayer.csprojAssemblyReference.cache
+D:\Customer_Project\Customer\Customer.Exceptions\obj\Debug\Customer.Exceptions.dll
+D:\Customer_Project\Customer\Customer.Exceptions\obj\Debug\Customer.Exceptions.pdb

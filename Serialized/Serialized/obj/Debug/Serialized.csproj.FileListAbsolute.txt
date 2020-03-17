@@ -1,0 +1,13 @@
+D:\Customer\Serialized\Serialized\bin\Debug\Serialized.exe.config
+D:\Customer\Serialized\Serialized\bin\Debug\Serialized.exe
+D:\Customer\Serialized\Serialized\bin\Debug\Serialized.pdb
+D:\Customer\Serialized\Serialized\obj\Debug\Serialized.csprojAssemblyReference.cache
+D:\Customer\Serialized\Serialized\obj\Debug\Serialized.csproj.CoreCompileInputs.cache
+D:\Customer\Serialized\Serialized\obj\Debug\Serialized.exe
+D:\Customer\Serialized\Serialized\obj\Debug\Serialized.pdb
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\bin\Debug\Serialized.exe.config
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\bin\Debug\Serialized.exe
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\bin\Debug\Serialized.pdb
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\obj\Debug\Serialized.csprojAssemblyReference.cache
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\obj\Debug\Serialized.exe
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Serialized\Serialized\obj\Debug\Serialized.pdb

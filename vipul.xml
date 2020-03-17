@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <customerId>1</customerId>
+    <customerName>Vicky</customerName>
+    <city>Pilani</city>
+    <age>21</age>
+    <phone>7976648655</phone>
+    <pincode>324008</pincode>
+  </Customer>
+  <Customer>
+    <customerId>2</customerId>
+    <customerName>aad</customerName>
+    <city>asda</city>
+    <age>12</age>
+    <phone>7976648674</phone>
+    <pincode>324566</pincode>
+  </Customer>
+  <Customer>
+    <customerId>3</customerId>
+    <customerName>jj</customerName>
+    <city>ffv</city>
+    <age>8</age>
+    <phone>7023185087</phone>
+    <pincode>324009</pincode>
+  </Customer>
+</ArrayOfCustomer>

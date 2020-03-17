@@ -1,0 +1,15 @@
+D:\Customer_Project\Customer\Customer.Entities\bin\Debug\Customer.Entities.dll
+D:\Customer_Project\Customer\Customer.Entities\bin\Debug\Customer.Entities.pdb
+D:\Customer_Project\Customer\Customer.Entities\obj\Debug\Customer.Entities.dll
+D:\Customer_Project\Customer\Customer.Entities\obj\Debug\Customer.Entities.pdb
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\bin\Debug\Customer.Entities.dll
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\bin\Debug\Customer.Entities.pdb
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\obj\Debug\Capgemini.CustomerManagementSystem.Entity.csprojAssemblyReference.cache
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\obj\Debug\Capgemini.CustomerManagementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\obj\Debug\Customer.Entities.dll
+D:\Main project\Customer-20200210T040814Z-001\Customer\Customer.Entities\obj\Debug\Customer.Entities.pdb
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Customer.Entities\bin\Debug\Customer.Entities.dll
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Customer.Entities\bin\Debug\Customer.Entities.pdb
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Customer.Entities\obj\Debug\Capgemini.CustomerManagementSystem.Entity.csprojAssemblyReference.cache
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Customer.Entities\obj\Debug\Customer.Entities.dll
+C:\Users\vipul\Downloads\Vipul_Pareta\Sprint_1\Customer\Customer.Entities\obj\Debug\Customer.Entities.pdb
